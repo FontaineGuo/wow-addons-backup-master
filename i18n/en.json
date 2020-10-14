@@ -1,1 +1,7 @@
-{}
+{
+    "app.menu.import":"import",
+    "app.menu.backup":"backup",
+    "app.about.version":"Version:{version}",
+    "app.version.retail":"Retail",
+    "app.version.classic":"Classic"
+}

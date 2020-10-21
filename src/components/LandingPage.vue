@@ -16,6 +16,9 @@
                 </div>
             </header>
         </div>
+        <main>
+            
+        </main>
     </div>
 </template>>
 
